@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+	 <meta charset="utf-8">
+  <style>
+   #Welcome{color: lightblue}
+	 
+  </style>
+ <body>
+ 	</head>
+    <h1 id="Welcome">Welcome to the all things cartoon blog</h1>
+    <h2 class="title"> Creator</h2>
+		<p>Real name:unkwown.</p>
+		<p>Nickname: Ashfire</p>
+		<p>Created this blog because of her intense love for animation.</p>
+ </body>
+</html>
